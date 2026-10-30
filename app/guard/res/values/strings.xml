@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">桌面守卫</string>
+    <string name="service_label">桌面守卫</string>
+    <string name="service_desc">把 Home 键和开机画面固定到 Projectivy 桌面,阻止奇异果桌面抢占。</string>
+</resources>
